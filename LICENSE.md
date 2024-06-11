@@ -1,7 +1,6 @@
 CC BY 4.0
 
-Attribution 4.0 International
-Deed
+Attribution 4.0 International Deed
 
 
 You are free to:
