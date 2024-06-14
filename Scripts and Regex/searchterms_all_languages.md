@@ -151,4 +151,4 @@ Modern English meanings :
 
 
 Regex String : 
-Welsh search terms were not converted to regex as the keywords were sufficient and needed to be viewed as full words in context due to Welsh grammar rules and the number of returns needed to be reduced rather than expanded for this subcorpus.
+> Welsh search terms were not converted to regex as the keywords were sufficient and needed to be viewed as full words in context due to Welsh grammar rules and the number of returns needed to be reduced rather than expanded for this subcorpus.
