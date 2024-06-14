@@ -12,7 +12,7 @@
 -----
 
 
-
+  
 ## Early and Modern English - Charnel
 
 ### Key Terms : 
@@ -23,7 +23,7 @@
 -------
 
 
-
+  
 ## Latin
 
 ### Key Terms : 
@@ -62,7 +62,7 @@
 -------
 
 
-
+  
 ## Old English
 
 ### Key Terms : 
@@ -101,7 +101,7 @@
 -------
 
 
-
+  
 ## Middle English
 
 ### Key Terms : 
@@ -128,7 +128,7 @@
 -------
 
 
-
+  
 ## Welsh
 
 ### Key Terms : 
