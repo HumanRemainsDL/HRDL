@@ -1,4 +1,4 @@
-# Early and Modern English - Cathedrals and Postmedieval
+## Early and Modern English - Cathedrals and Postmedieval
 
 ### Key Terms : 
 > body; bones; bone; burial; buried; cadaver; coffin; corpse; crypt; dead; body; deceased; dig; digged; discover; discovered; disinter; disinterred; disinterment; dug; exhume; exhumed; exhumation; grave; head; human remains; monument; re-open; re-opened; relic; relics; reliquary; remains; sepulchre; sepulture; shrine; shroud; skeletal; skeleton; skull; tomb; translation; uncover; uncovered; vault 
@@ -13,7 +13,7 @@
 
 
 
-# Early and Modern English - Charnel
+## Early and Modern English - Charnel
 
 ### Key Terms : 
 > charnel; charnel house; charnelhouse; bonehouse; bone house; bones; bones; skulls; sculls; remains; remains; remnants; fragments [of mortality]; ashes; disarticulated; fragmented 
@@ -24,7 +24,7 @@
 
 
 
-# Latin
+## Latin
 
 ### Key Terms : 
 [Action / Process / State of Being (Verb)]
@@ -63,7 +63,7 @@
 
 
 
-# Old English
+## Old English
 
 ### Key Terms : 
 > (be-); (ge-) byrgen, birgan, byrigan, birigan, birgean, byrigean, byrian;(be-); (ge-) delfan; (for-) molsnian; (on-) ; (oþ-) hrīnan; (on-) findan; (tō-) (up-) niman; á-dón; æthrīnan; āhrīnan; ātreddan; be-habban; brosnian; cunnian; (ge-) fandian; forð-faran; (ge-) āscian; (ge-) bindan; (ge-) frignan; (ge-) healdan; (ge-) logian; (ge-) mētan; (ge-) ræcan; (ge-) ryman; Hæftan; heabban; healdan; hrepian , hreppan; mētan; ofer-wyrcan; of-swingan; of-weorpan; on-irnan; on-spannan; openian; sēcan; þurh-sēcan; þurh-wunian; under-delfan
@@ -102,7 +102,7 @@
 
 
 
-# Middle English
+## Middle English
 
 ### Key Terms : 
 > deth; dethe; deith; dieaþ; diath; dæþ; deað; deðen; dæðen; dede; ded; deid; dæd; diþe; deit; detʒ; deʒ; ded; dæd; dead; diad; greithen; greithet; ungreithed; ongreithet; sepultur; sepulture; sepultre; enterement; enteerment; entierment; entirement; enterrement; inment; forholden;forhelden; forhold; entering; terment; termente; terement; tierment; terrement; tirmente; serrement; forth-bringing; exequies; exequise; exequy; ~makere; ~brekere; graven; grawen; grauen; mortheren; morther ; morthre; morthri; murther; murthre; murthrie[ mourthre; mirthren; mirther ; morderen; mortherde; murþered; murþer; imurthret; motheryd; murdred; murder; morder; murtheret; morther; morthre; murther; murthre; mirther ; mother; mordre; mourdre; mourdure; moerdre; moudre; Mordred; hassasis; assassis; grefe; gref; grief; greffe ; greve ; greive; grief; grif; griffe; grieve; grive; grieve
@@ -129,7 +129,7 @@
 
 
 
-# Welsh
+## Welsh
 
 ### Key Terms : 
 > Palu lan; Palu (i) fyny; Claddu; Datgladdu; Datgladdv; Dadgladdiad; Dadgladdiadau; Ailgladdu; Ail-gladdu; Ail-gladdiad; Claddiad; Claddedigaeth; Marw; Meirw; Ail-leoli; Cludo; Cludaw; Atgyfodi; Atgyfodiad; Datgelu; Dadorchuddio; Dadorchuddiaw; Trosglwyddo; Trosglwyddaw; Codi; Ailagor; Ail-agor
