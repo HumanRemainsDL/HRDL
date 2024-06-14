@@ -33,7 +33,7 @@
 [Human Remains]
 > cadaver; corpus; gabares; gl(a)eba; manna; morticinium; morticinus; os; ossum; ptoma; toma; reliquiae; reliquia; reliqua; skeleton; sentina
 
-[Burial / Death (Phenomenon or occurence)
+[Burial / Death (Phenomenon or occurence)]
 > (in-) funeratio; funeralis; Disposition; ex(s)equia(e); exhumation; funus; illation; inventio; levatus; subterratio; translatio (delatio); tumulatio; tumularius
 
 [Person / Title]
@@ -52,7 +52,7 @@
 
 > one who exhumes; grave digger; obedientiary in charge of burials; goddess of funerals; funeral canopy or apparatus; tomb-keeper
 
-> coffin; tomb/ chapel; casket/vault/sarcophagus/reliquary; entrance (to crypt); pyre/grave/barrow/ (?) corpse; cemetery/graveyard; ‘hearse’ (? candle-frame over tomb); chest/reliquary/coffin; casket/corporal case or cover/reliquary; pall; reliquary/shrine/coffin/crypt/opening in a body; monumental tomb/shrine/vault/sarcophagus/crypt or tomb sanctified by relics; cover, lid (for coffin or corporal cloth); crypt/undercroft/vault; little structure/coffin/reliquary; epitaph/funeral speech or song (inscribed on tomb)/hearse or framework over a tomb; monastery/workshop/tomb; clothing/items removed from body; shroud; bier/portable shrine/reliquary; crypt; grave/pit; candle frame around tomb or bier; offerings made for the dead/ burial rites/tomb; coffin lid; burial grounds for clergy/deacons; resting place of a corpse or tomb/grave/large or ornate tomb/mausoleum/grave; monument; sepulchral monument; coffin; cloth or cloak covering body; common burial place/cemetery; pyramidal tomb/framework hearse (erected over body at funeral or over tomb); rest in death/ tomb; place for lying down/tomb; (final) resting place/tomb; consecrated ground/churchyard/cemetery/ relic/ reliquary; lit. 'stony thing' (tomb); reliquary/shrine; lit. seat (place of the dead); container for remains/sarcophagus; tomb, esp. for small child; eaves/sill (of a building); inscription (in quot. a tomb); burial mound/grave/tomb
+> coffin; tomb/chapel; casket/vault/sarcophagus/reliquary; entrance (to crypt); pyre/grave/barrow/ (?) corpse; cemetery/graveyard; ‘hearse’ (? candle-frame over tomb); chest/reliquary/coffin; casket/corporal case or cover/reliquary; pall; reliquary/shrine/coffin/crypt/opening in a body; monumental tomb/shrine/vault/sarcophagus/crypt or tomb sanctified by relics; cover, lid (for coffin or corporal cloth); crypt/undercroft/vault; little structure/coffin/reliquary; epitaph/funeral speech or song (inscribed on tomb)/hearse or framework over a tomb; monastery/workshop/tomb; clothing/items removed from body; shroud; bier/portable shrine/reliquary; crypt; grave/pit; candle frame around tomb or bier; offerings made for the dead/ burial rites/tomb; coffin lid; burial grounds for clergy/deacons; resting place of a corpse or tomb/grave/large or ornate tomb/mausoleum/grave; monument; sepulchral monument; coffin; cloth or cloak covering body; common burial place/cemetery; pyramidal tomb/framework hearse (erected over body at funeral or over tomb); rest in death/ tomb; place for lying down/tomb; (final) resting place/tomb; consecrated ground/churchyard/cemetery/ relic/ reliquary; lit. 'stony thing' (tomb); reliquary/shrine; lit. seat (place of the dead); container for remains/sarcophagus; tomb, esp. for small child; eaves/sill (of a building); inscription (in quot. a tomb); burial mound/grave/tomb
 
 
 ### Regex String : 
