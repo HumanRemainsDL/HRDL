@@ -1,4 +1,4 @@
-# Scripts and Regex Repo
+# Scripts and Search Terms Repo
 
 This folder contains the various scripts, thematic search terms, and derived regex strings (where applicable) used to find suitable material from other repositories:
 
