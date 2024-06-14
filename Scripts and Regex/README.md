@@ -1,4 +1,4 @@
-# Scripts and Search Terms Repo
+# Search Indices and Language Models Repo
 
 This folder contains the various scripts, thematic search terms, and derived regex strings (where applicable) used to find suitable material from other repositories:
 
