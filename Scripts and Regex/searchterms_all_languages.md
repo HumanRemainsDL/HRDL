@@ -171,4 +171,4 @@ Key Terms : Bedd; Beddau; Beddrod; Beddrodau; Creirfa; Arch; Eirch; Archoedd; Am
 Modern English meanings : grave; graves; tomb; tombs; reliquary; coffin; coffins; shroud; covering/shroud
 
 
-Regex String : Welsh search terms were not converted to regex as the keywords were sufficient and needed to be viewed as full words in context due to Welsh grammar rules and the number of returns needed to be reduced rather than expanded for this corpus.
+Regex String : Welsh search terms were not converted to regex as the keywords were sufficient and needed to be viewed as full words in context due to Welsh grammar rules and the number of returns needed to be reduced rather than expanded for this subcorpus.
