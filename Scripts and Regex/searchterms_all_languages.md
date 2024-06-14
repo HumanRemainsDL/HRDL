@@ -1,4 +1,4 @@
-# Early and Modern English - Cathedral and Postmedieval
+# Early and Modern English - Cathedrals and Postmedieval
 
 Key Terms : 
 > body; bones; bone; burial; buried; cadaver; coffin; corpse; crypt; dead; body; deceased; dig; digged; discover; discovered; disinter; disinterred; disinterment; dug; exhume; exhumed; exhumation; grave; head; human remains; monument; re-open; re-opened; relic; relics; reliquary; remains; sepulchre; sepulture; shrine; shroud; skeletal; skeleton; skull; tomb; translation; uncover; uncovered; vault 
