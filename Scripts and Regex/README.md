@@ -1,7 +1,8 @@
 # Scripts and Regex Repo
 
-This folder contains the various scripts and regex search parameters used to find potentially suitable material from a range of collections:
+This folder contains the various scripts, thematic search terms, and derived regex strings (where applicable) used to find suitable material from other repositories:
 
-- regex_english : terms relating to XYZ
 
-- regex_welsh : ... ... ...
+- searchterms_all_languages : a compiled index of the five non-Modern English languages used in the collection of records for the digital library
+
+- variantrules_welsh : the spelling variations that encompass linguistic change over the comparitive period (8th - 20th Century)
