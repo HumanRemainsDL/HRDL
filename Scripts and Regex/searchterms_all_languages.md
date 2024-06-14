@@ -4,7 +4,7 @@
 > body; bones; bone; burial; buried; cadaver; coffin; corpse; crypt; dead; body; deceased; dig; digged; discover; discovered; disinter; disinterred; disinterment; dug; exhume; exhumed; exhumation; grave; head; human remains; monument; re-open; re-opened; relic; relics; reliquary; remains; sepulchre; sepulture; shrine; shroud; skeletal; skeleton; skull; tomb; translation; uncover; uncovered; vault 
 
 
-### Regex String : 
+### Regex : 
 > dead|.tomb|.buri.|bury|corp.|cad.v.|coff.|r.lic.|exhum.|.inter.|grave.|c.m.t.r.|s.pul.r.|sk.l.t.|transl.|bod.|cry.t|bone.|vault.|.open.|.cov.r.|remains|.corr.pt.|charn.|sarc.|rest|funer.|laid|shrin.|rel.q.|s.p.lc.|casket 
 
 
@@ -55,7 +55,7 @@
 > coffin; tomb/chapel; casket/vault/sarcophagus/reliquary; entrance (to crypt); pyre/grave/barrow/ (?) corpse; cemetery/graveyard; ‘hearse’ (? candle-frame over tomb); chest/reliquary/coffin; casket/corporal case or cover/reliquary; pall; reliquary/shrine/coffin/crypt/opening in a body; monumental tomb/shrine/vault/sarcophagus/crypt or tomb sanctified by relics; cover, lid (for coffin or corporal cloth); crypt/undercroft/vault; little structure/coffin/reliquary; epitaph/funeral speech or song (inscribed on tomb)/hearse or framework over a tomb; monastery/workshop/tomb; clothing/items removed from body; shroud; bier/portable shrine/reliquary; crypt; grave/pit; candle frame around tomb or bier; offerings made for the dead/ burial rites/tomb; coffin lid; burial grounds for clergy/deacons; resting place of a corpse or tomb/grave/large or ornate tomb/mausoleum/grave; monument; sepulchral monument; coffin; cloth or cloak covering body; common burial place/cemetery; pyramidal tomb/framework hearse (erected over body at funeral or over tomb); rest in death/ tomb; place for lying down/tomb; (final) resting place/tomb; consecrated ground/churchyard/cemetery/ relic/ reliquary; lit. 'stony thing' (tomb); reliquary/shrine; lit. seat (place of the dead); container for remains/sarcophagus; tomb, esp. for small child; eaves/sill (of a building); inscription (in quot. a tomb); burial mound/grave/tomb
 
 
-### Regex String : 
+### Regex : 
 >.f.r.tr.|.fod.|.foss.|.fun.r.|.humat.|.int.rr.|.p.lc.|.rg.st.ri.|.s.p.l.|.s.p.l.|.s.p.lc.|.s.pult.|.tom.|.tumb.|.tumb.|.tumul.|.tumul.|ac.rr.|aed.c.l.|arc.|b.lc.|balsm.|bust.|bust.|bust.|c.nch.|c.ss.|c.st.|cada.|caps.|caps.l.|carn.|cem.t.|charn.|coem.t.|coop.rc.|corp.|cr.pt.|cr.t.|delat.|deposit.|ed.c.l.|ent.c.|euell.|evell.|ex.qu.|exc.r.br.|exhum.|exs.qu.|exug.|exuu.|exuv.|f.rn.x|fasc.|feret.|fun.|gabar.|gl..b.|gl.b.|h.rc.|iac.|illat.|inf.ri.|inu.nt.|inv.nt.|l.b.t.n.|l.c.n.r|l.u.t.|l.v.t.|m.nn|maus.l.|monumen.|mort.c.|n..f.|n.ff.|os.|p.ll.|poly.ndri.|pt.m.|recl.n.|repaus.|s.nctuar.|s.ntin.|s.p.lc.|s.p.lt.|s.rc.|sac.ll.|sc.l.t.|scri.n.|scrob.|sk.l.t.|soros|subt.rr.|sud.r.|sug.rund|th.c.|translat.|tumul.|
 
 
@@ -120,7 +120,7 @@
 > grave/tomb/memorial [East Midlands variant]; entombment/burial/funeral gravesite/tomb; cemetery/graveyard/burial; sepulchre/tomb; churchyard/burial ground; burial place; grave; gravestone; burial ground; burial place; burial cave; tomb/coffin/sarcophagus/mausoleum/burial chamber; burial/burial mound/barrow
 
 
-### Regex String : 
+### Regex : 
 > d.th.|d..th.|d.d|d..d|.rth.ng.|t.m.l.s.|l.rst.|l..rst..gr..th|br.ng.|b.r..ng.|b..r..ng.|b.r.ng.|b..r.ng.|c.m.t.r.|s.m.t.r.|c.m..t.r.|ch.rch.h.|c.rch.h.|c.rc.h.|s.p.lt.|s..p.lt.|.nt.r.m.nt.|.nt..r.m.nt.|.nt.rm.nt.|.nt..rm.nt.|cire|shire|sire|b.r..l.|b..r.l.|b..r..l.|.rd.ng.|.nt.r.m.nt.|.nt..r.m.nt.|.nt.rm.nt.|.nt..rm.nt.|.x.qui.|.t.mb.|.t..mb.|.th..mb.|.sp.l.n.|c.p.l.r.|s.p.l.r.|p.lcr.|s..p.l.r.|c.d.v.|c.d.u.|gr.v.|gr.f.|gr.w.|gr..v.|gr..f.|wal.|wel.|wæl.|ob.t.|obb.t.|c.r..n|c.r.n.|c.rs.|c.rp.|course|kose|quorse|cors.|vol.p.r.|wol.p.r.|gr.u.|ber.|bær.|beere|beare|.obs.qu.|.x.qui.|.x.quy.|m.rt.|l.ch.|lik.|lic.|lyc.|lege|lyk.|l.ð.|sm.rl.|.no.ntm.nt.|.no.nt.m.nt.|.n.ntm.nt.|.n.nt.m.nt.|.nba.|.mba.|bamen.|baumen.|balm.|bawm.|s..l.m.ss.|sowellemes|urn.|ourn.|vrn.|b.r.n.s.|b.r..n.s.|hers.|herc.|erst|heerce|heerses|d.þ.|d.ð.
 
 
