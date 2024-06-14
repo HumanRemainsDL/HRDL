@@ -1,11 +1,7 @@
-# Early and Modern English
+# Early and Modern English - Cathedral and Postmedieval
 
 Key Terms : 
 > body; bones; bone; burial; buried; cadaver; coffin; corpse; crypt; dead; body; deceased; dig; digged; discover; discovered; disinter; disinterred; disinterment; dug; exhume; exhumed; exhumation; grave; head; human remains; monument; re-open; re-opened; relic; relics; reliquary; remains; sepulchre; sepulture; shrine; shroud; skeletal; skeleton; skull; tomb; translation; uncover; uncovered; vault 
-
-
-Modern English meanings : 
-> n/a - These terms were used for the ‘cathedrals’ and ‘postmedieval’ sub-corpora 
 
 
 Regex String : 
@@ -17,14 +13,10 @@ Regex String :
 
 
 
-# Early and Modern English
+# Early and Modern English - Charnel
 
 Key Terms : 
 > charnel; charnel house; charnelhouse; bonehouse; bone house; bones; bones; skulls; sculls; remains; remains; remnants; fragments [of mortality]; ashes; disarticulated; fragmented 
-
-
-Modern English meanings : 
-> n/a - These terms were used for the ‘charnel’ sub-corpora 
 
 
 
