@@ -44,14 +44,19 @@
 
 
 ### Modern English meanings : 
+[Action / Process / State of Being (Verb)]
 > lay down/put into a tomb; bury; inter; entomb; sink in the ground; dig; carry out a funeral; digging; place in the earth; place in a grave or tomb; pack with earth; dig up; exhume; remove the brains from a corpse; enshrine; put in a mausoleum.
 
+[Human Remains]
 > corpse; a body; a resurrected body; earthy remains; fragrant dust from a tomb; bones; remains of a dead person; remains of a saint; relic; reliquary; foul, filthy liquid, (in reference to a corpse)
 
+[Burial / Death (Phenomenon or occurence)]
 > funeral; burial; disposition/arrangement/situation; exequies/burial rites; (commemorative) office of the dead; mortal remains; exhumation; funeral rites/funeral procession; corpse (before burial); carrying in of corpse (for burial); finding/discovery (of relic); translation of the body or relics; interment; translation; interment/entombment/tomb; burial mound
 
+[Person / Title]
 > one who exhumes; grave digger; obedientiary in charge of burials; goddess of funerals; funeral canopy or apparatus; tomb-keeper
 
+[Structure / Place / Burial Accoutrement]
 > coffin; tomb/chapel; casket/vault/sarcophagus/reliquary; entrance (to crypt); pyre/grave/barrow/ (?) corpse; cemetery/graveyard; ‘hearse’ (? candle-frame over tomb); chest/reliquary/coffin; casket/corporal case or cover/reliquary; pall; reliquary/shrine/coffin/crypt/opening in a body; monumental tomb/shrine/vault/sarcophagus/crypt or tomb sanctified by relics; cover, lid (for coffin or corporal cloth); crypt/undercroft/vault; little structure/coffin/reliquary; epitaph/funeral speech or song (inscribed on tomb)/hearse or framework over a tomb; monastery/workshop/tomb; clothing/items removed from body; shroud; bier/portable shrine/reliquary; crypt; grave/pit; candle frame around tomb or bier; offerings made for the dead/ burial rites/tomb; coffin lid; burial grounds for clergy/deacons; resting place of a corpse or tomb/grave/large or ornate tomb/mausoleum/grave; monument; sepulchral monument; coffin; cloth or cloak covering body; common burial place/cemetery; pyramidal tomb/framework hearse (erected over body at funeral or over tomb); rest in death/ tomb; place for lying down/tomb; (final) resting place/tomb; consecrated ground/churchyard/cemetery/ relic/ reliquary; lit. 'stony thing' (tomb); reliquary/shrine; lit. seat (place of the dead); container for remains/sarcophagus; tomb, esp. for small child; eaves/sill (of a building); inscription (in quot. a tomb); burial mound/grave/tomb
 
 
@@ -66,30 +71,42 @@
 ## Old English
 
 ### Key Terms : 
+[Action / Process / State of Being (Verb)]
 > (be-); (ge-) byrgen, birgan, byrigan, birigan, birgean, byrigean, byrian;(be-); (ge-) delfan; (for-) molsnian; (on-) ; (oþ-) hrīnan; (on-) findan; (tō-) (up-) niman; á-dón; æthrīnan; āhrīnan; ātreddan; be-habban; brosnian; cunnian; (ge-) fandian; forð-faran; (ge-) āscian; (ge-) bindan; (ge-) frignan; (ge-) healdan; (ge-) logian; (ge-) mētan; (ge-) ræcan; (ge-) ryman; Hæftan; heabban; healdan; hrepian , hreppan; mētan; ofer-wyrcan; of-swingan; of-weorpan; on-irnan; on-spannan; openian; sēcan; þurh-sēcan; þurh-wunian; under-delfan
 
+[Human Remains]
 > (h)rǽw, hráw, hreáw, hrá; ǽs; bán; bán-cofa; bán-fæt; bán-hús; eorþ-fæt; flæsc; hold; leap; líc; líchama; lim; liþ; ne(o) / neas; wael; bodig
 
+[Burial / Death (Phenomenon or occurence)]
 > cwalu; dēaþ; ealdor-gedæl; ealdor-gedāl; feorh-bealu; forð-fōr; forð-weg; fyl; lāst-word; líc-þegnung; līf-gedæl , līf-gedāl; metod-scæft; nīed-faru; on līfe ge on legere; wæl-cwealm
 
+[Person / Title]
 > byrgere; líc-mann
 
+[State of Being]
 > a-storfen; bær; open
 
+[Structure / Place / Burial Accoutrement]
 > ærn; beorg, burh, beorg, beorh, biorg, biorh; byrgels, birgels, bergels; byrgen, byrgenn, birgen, byrigen, burgen; byrgen-leóþ; clæ ne legere; crundel; eorð-scræf; eorþ-ærn; eorþ-græf; fold-græf; gemynd-stów; græf, graf; hlǽw; hlid; leger; leger-bedd; líc-pytt; líc-rest; līc-stōw; líc-þrúh; līc-tūn; mold-ern; neo-bedd; ofer-(ge)weorc; scræf; þeóster-cofa; þeóster-loca; þrúh; ymb-fæstnung
 
 
 ### Modern English meanings : 
+[Action / Process / State of Being (Verb)]
 > bury/ dig a grave; putrefy/corrupt/rot/decay; to touch with the hands/affect by contact/meddle with/reach/strike; find; to take/divide/take away/exhume; remove; touch; search out; encompass; perish; find out; examine/find by attempting; go forth/depart/die; discover/learn by asking; hold fast/bind; discover; hold; bring together; find; stretch out/hold onto/seize/succeed in touching by stretching out a limb or body part; extend/expand/open; seize/bind/make captive; have/own/hold; touch/ treat/attack; meet/find; cover something/build over; scourge to death; stone to death; yield/run away/spring open; unfasten/unclasp/open (lit. and metaphorically for the mind); open; seek/search for; search through; endure/persevere; dig under
 
+[Human Remains]
 > living or dead body/corpse; food/meat/carcase/carrion; bone; bone-coffer/the body; bone-vessel/body; bone-house/the body (never used for charnel house in Old English); earthen-vessel/body; flesh/body; carcase/body; the trunk of a body; body/ corpse; limb/joint; corpse; corpse/slaughter; body/trunk/'corpus'
 
+[Burial / Death (Phenomenon or occurence)]
 > death; violent death; departure/ death; fame after death/reputation, (lit. words on the traces/footsteps one has left); funeral/last offices for dead/ exequies; death (lit. 'separation from life'); ‘fate of the measurer'(decree or fate after death); in life and death
 
+[Person / Title]
 > burier/gravedigger; a person having to do with a corpse
 
+[State of Being]
 > starved/like a dead body/ cadaverous; naked/bare/open; open
 
+[Structure / Place / Burial Accoutrement]
 > secret place/house/tomb (esp. when suffixed); hill/mound/barrow; burial place; grave/tomb/burial place; epitaph; consecrated grave; grave; burial place in earth; earthen-grave/sepulchre; memorial place/tomb; a lid; lying down from sickness or death/grave; sick-bed/grave; grave/pit for bodies; resting place for dead/ bier; burial place for the body; tomb/sepulchre; burial-ground/graveyard; bed for a corpse; superstructure or cover for something/a tomb built over something; cave/hollow place in earth/miserable dwelling/tomb; dark chamber (where something/someone is buried/tomb; hollowed out stone or wood/coffin/tomb/sarcophagus; monument/tomb
 
 
