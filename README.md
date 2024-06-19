@@ -7,6 +7,6 @@ Digital Library: https://hrdl.liverpool.ac.uk
 
 
 ## Folder Contents
-- searchterms_all_languages : a compiled index and regex of the five non-Modern English languages and their distinct key terms used in the collection of records for the digital library
+- **searchterms_all_languages** : a compiled index and regex of the five non-Modern English languages and their distinct key terms used in the collection of records for the digital library
 
-- variantrules_welsh : the spelling variations that encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century)
+- **variantrules_welsh** : the spelling variations that encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century)
