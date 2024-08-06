@@ -9,6 +9,8 @@ Digital Library: https://hrdl.liverpool.ac.uk
 ## Folder Contents
 This Home folder contains supporting tables and figures for the core published output of the research undertaken by the project.
 
+- **themedadata_capture_values** : the metadata fields definitions captured for each record in the digital library, and their corresponding Dublin Core fields. 
+
 - **searchterms_all_languages** : a compiled index and regex of the five non-Modern English languages and their distinct key terms used in the collection of records for the digital library
 
 - **variantrules_welsh** : the spelling variations that encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century)
