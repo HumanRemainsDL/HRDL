@@ -1,5 +1,5 @@
 # The Human Remains Digital Library
-Repository for bepoke code, searchterm indices, linguistic calls, evidential raw data, and dedicated subcorpora backups from the HRDL (University of Liverpool).
+Repository for bespoke code, searchterm indices, linguistic calls, evidential raw data, and dedicated subcorpora backups from the HRDL (University of Liverpool).
 
 Project details: https://www.liverpool.ac.uk/archaeology-classics-and-egyptology/research/projects/human-remains/
 
