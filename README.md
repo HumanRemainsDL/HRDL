@@ -9,19 +9,19 @@ Digital Library: https://hrdl.liverpool.ac.uk
 ## Folder Contents
 This Home folder contains supporting tables and figures for the core published output of the research undertaken by the project.
 
-- **cathedrals_stats** : the number of texts found in initial text sweeps, duplicates discarded, and those that provided records for the digital library.
+- **cathedrals_stats** : the number of documents found in initial text sweeps, duplicates discarded, and those that provided records for the digital library.
 
-- **metadata_capture_values** : the metadata fields definitions captured for each record in the digital library, and their corresponding Dublin Core fields.
+- **metadata_capture_values** : the metadata field definitions captured for each record in the digital library, and their corresponding Dublin Core options.
 
-- **online_archives_consulted** : a list of all digital resources from which material was collected for conversion into suitable records, and the subcorpora they were specifically targetted for.
+- **online_archives_consulted** : a list of all digital resources from which material was collected for conversion into records, and the subcorpora for which they were specifically targetted.
 
-- **searchterms_all_languages** : a compiled index and regex of the five non-Modern English languages and their distinct key terms used in the collection of records for the digital library
+- **searchterms_all_languages** : a compiled index and corresponding regex forms of the five non-Modern English languages and their distinct key terms, used for text sweeps across various online archives.
 
-- **sourcecreate_flow** : an outline of the process by which a relevant text was divided into constituent records. Also provided in a visual form.
+- **sourcecreate_flow** : an outline of the process by which records were formed from documents containing relevant material. Also provided in a visual form.
 
 - **subcorpora_stats** : the number of records found/created for each dedicated subcorpus that comprise the digital library.
 
-- **variantrules_welsh** : the spelling variations that encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century)
+- **variantrules_welsh** : the spelling variations determined to encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century).
 
 
 
