@@ -22,3 +22,10 @@ This Home folder contains supporting tables and figures for the core published o
 - **subcorpora_stats** : the number of records found/created for each dedicated subcorpus that comprise the digital library.
 
 - **variantrules_welsh** : the spelling variations that encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century)
+
+
+
+
+
+
+Welsh Subcorpus : <a href="https://zenodo.org/doi/10.5281/zenodo.13269713"><img src="https://zenodo.org/badge/839773454.svg" alt="DOI"></a>
