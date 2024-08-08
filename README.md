@@ -29,4 +29,4 @@ This Home folder contains supporting tables and figures for the core published o
 ## Compiled Subcorpora
 These separate repositories hold the texts (in both original languages and modern english translations as feature in the digital library) collected by individual researchers for each focused subcorpora, provided in raw .txt format.
 
-Welsh Subcorpus : <a href="https://zenodo.org/doi/10.5281/zenodo.13269713" target=”_blank”><img src="https://zenodo.org/badge/839773454.svg" alt="DOI"></a>
+Welsh Subcorpus : <a href="https://zenodo.org/doi/10.5281/zenodo.13269713" target="_blank"><img src="https://zenodo.org/badge/839773454.svg" alt="DOI"></a>
