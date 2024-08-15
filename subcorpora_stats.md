@@ -8,5 +8,5 @@
 | Postmedieval | 1631-1921 | Early and Modern English | 173 | 0 | 173 |
 | Royals | 600s-1916 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 323 | 7 | 330 |
 | Saints | 700s-1499 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 1209 | 32 | 1241 |
-| Welsh | 1060-1899 | Welsh | 37 | 0 | 37 |
+| Welsh | 1060-1899 | Old and Early Welsh | 37 | 0 | 37 |
 | | | **Total** | 2250 | | 2920 |
