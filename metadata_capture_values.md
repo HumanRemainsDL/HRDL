@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 | Filename | .txt filename | Identifier 1 | Project file naming conventions |
 | Doc ID | Unique numerical document identifier  | Identifier 2 | Generated automatically by HRDL |
+| Source Type | x | Identifier 3 | Either y or z |
 | Title | Original title of the source | Title | Free text |
 | Subject – Primary | Core subject keywords for HRDL | Subject | Library of Congress Subject Headings (LCSH): 'Exhumation; Burial; Britain and its people' [used for all records]  |
 | Subject – Secondary | Subject keywords for the focus of the records | Subject | Library of Congress Authorities (e.g. 'Royals', 'Saints') |
