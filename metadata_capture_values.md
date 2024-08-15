@@ -4,7 +4,6 @@
 | --- | --- | --- | --- |
 | Filename | .txt filename | Identifier 1 | Project file naming conventions |
 | Doc ID | Unique numerical document identifier  | Identifier 2 | Generated automatically by HRDL |
-| Source Type | x | Identifier 3 | Either y or z |
 | Title | Original title of the source | Title | Free text |
 | Subject – Primary | Core subject keywords for HRDL | Subject | Library of Congress Subject Headings (LCSH): 'Exhumation; Burial; Britain and its people' [used for all records]  |
 | Subject – Secondary | Subject keywords for the focus of the records | Subject | Library of Congress Authorities (e.g. 'Royals', 'Saints') |
@@ -23,7 +22,8 @@
 | Type | Type of publication of the original source | Type | Subject Headings and genre/form terms for lib & archival materials by Library of Congress. Full list and definitions details provided on HRDL |
 | Format | Format of the record  | Format | capitalised abbreviation of file type, i.e. ‘TXT’ [used for all records at launch] |
 | Coverage – Era | Events or ideas of the source attributed to either ‘medieval’ or ‘postmedieval’ periods; useful for HRDL users needing either pre- Reformation or post-Reformation data | Coverage - Temporal | Portable Antiquities Scheme date ranges applied. One of the following selected: Medieval (410-1500) or Postmedieval (1500 onwards) |
-| Narrative Type | Narrative type of the record (not the whole document from which it was sourced) | Type | One of the following: Passing Reference / Anecdote / Descriptive Account |
+| Source Type | x | Type 1 | Either y or z |
+| Narrative Type | Narrative type of the record (not the whole document from which it was sourced) | Type 2 | One of the following: Passing Reference / Anecdote / Descriptive Account |
 | Coverage – Site | Principle locations mentioned in the source, scaled to settlement-level | Coverage - Spatial | Modern English names and spelling used. Alternative spellings or language versions in square brackets based on original source. Multiple sites listed, separated by a pipe |
 | Coverage – Country | Countries referred to or implied in the source, based on sites mentioned | Coverage - Spatial | Modern English names and spelling used. Multiple countries listed, separated by a pipe |
 | Name(s) of Deceased | Name(s) of the deceased specified in the source | Subject | Free text. Multiple names separated by a pipe. Titles included as follows: Honorifics (Sir/Rev/Col/etc.) kept in front of name using standard abbreviations. Bishop/King/etc. follow known name(s) e.g. ‘Duncan I King of Scotland’. Additional details (e.g. ‘a monk of Lindisfarne’, ‘a widow’ etc.) in brackets following known name(s). Nicknames or alternative names placed between given name(s) and lineal suffix / position ( e.g. ‘Harold I 'Harefoot' King of England’). ‘unnamed X’ where only descriptors used (e.g. ‘unnamed abbess’; ‘unnamed children’; ‘unnamed evil people’). ‘None’ used if no individuals were mentioned.  |
