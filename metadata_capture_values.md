@@ -22,7 +22,7 @@
 | Type | Type of publication of the original source | Type | Subject Headings and genre/form terms for lib & archival materials by Library of Congress. Full list and definitions details provided on HRDL |
 | Format | Format of the record  | Format | capitalised abbreviation of file type, i.e. ‘TXT’ [used for all records at launch] |
 | Coverage – Era | Events or ideas of the source attributed to either ‘medieval’ or ‘postmedieval’ periods; useful for HRDL users needing either pre- Reformation or post-Reformation data | Coverage - Temporal | Portable Antiquities Scheme date ranges applied. One of the following selected: Medieval (410-1500) or Postmedieval (1500 onwards) |
-| Source Type | x | Type 1 | Either y or z |
+| Source Type | The nature of material from which the record was collected | Type 1 | Either Published Account or Archaeological Record |
 | Narrative Type | Narrative type of the record (not the whole document from which it was sourced) | Type 2 | One of the following: Passing Reference / Anecdote / Descriptive Account |
 | Coverage – Site | Principle locations mentioned in the source, scaled to settlement-level | Coverage - Spatial | Modern English names and spelling used. Alternative spellings or language versions in square brackets based on original source. Multiple sites listed, separated by a pipe |
 | Coverage – Country | Countries referred to or implied in the source, based on sites mentioned | Coverage - Spatial | Modern English names and spelling used. Multiple countries listed, separated by a pipe |
