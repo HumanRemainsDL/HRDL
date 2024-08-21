@@ -20,7 +20,7 @@
 | Language – This File | Language of the record as appears on the digital library | Language  | Modern English [used for all records] |
 | Related Records | Family Folder title | Relation | Per project file naming standards |
 | Format | Format of the record  | Format | capitalised abbreviation of file type, i.e. ‘TXT’ [used for all records at launch] |
-| Coverage – Era | Events or ideas of the source attributed to either ‘medieval’ or ‘postmedieval’ periods; useful for HRDL users needing either pre- Reformation or post-Reformation data | Coverage - Temporal | Portable Antiquities Scheme date ranges applied. One of the following selected: Medieval (410-1500) or Postmedieval (1500 onwards) |
+| Coverage – Era | Events or ideas of the source attributed to either ‘medieval’ or ‘postmedieval’ periods; useful for HRDL users needing either pre- Reformation or post-Reformation data | Coverage - Temporal | Portable Antiquities Scheme date ranges applied. One of the following selected: Medieval (410-1500) / Postmedieval (1500-1900) / Modern (1900 onwards) |
 | Source Type | The nature of material from which the record was collected | Type 1 | Either Published Account or Archaeological Record |
 | Account Type | Type of publication of the original source | Type 2 | Subject Headings and genre/form terms for lib & archival materials by Library of Congress. Full list and definitions details provided on HRDL |
 | Narrative Type | Narrative type of the record (not the whole document from which it was sourced) | Type 3 | One of the following: Passing Reference / Anecdote / Descriptive Account |
