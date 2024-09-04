@@ -8,7 +8,7 @@
 | d | Initial | n, dd | Initial mutation |
 | dd | Internal, terminal | d | Only d |
 | b | Initial | f, m | Initial mutation; only f and m |
-| g | Initial | ng | Initial mutation; never c or kj |
+| g | Initial | ng, -[removal] | Initial mutation; never c or k |
 | c | Initial | k, g, ngh, ch | Initial mutation |
 | w | Initial, internal, terminal | u, v | None |
 | u | Initial, internal, terminal | v | None |
@@ -17,6 +17,6 @@
 | i | Initial, terminal | y | Only y |
 | y | Initial, terminal | i | Only i |
 | y | Initial | None | Never changes |
-| pc | Initial | b, mh, ph | Initial mutation |
+| p | Initial | b, mh, ph | Initial mutation |
 | m | Initial | f | Initial mutation |
 | rh | Initial | r | Initial mutation |
