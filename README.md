@@ -23,6 +23,8 @@ This Home folder contains supporting tables and figures for the core published o
 
 - **variantrules_welsh** : the spelling variations determined to encompass linguistic change - as applicable to the key terms over the comparitive period (8th - 20th Century).
 
+- **welsh_variants_generated** : the lexical morphologies generated from the variantrules_welsh as applied to the Welsh entries from searchterms_all_languages.
+
 
 
 
