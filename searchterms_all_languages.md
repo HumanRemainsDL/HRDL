@@ -149,11 +149,11 @@
 ## Welsh
 
 ### Key Terms : 
-> Palu lan; Palu (i) fyny; Claddu; Datgladdu; Datgladdv; Dadgladdiad; Dadgladdiadau; Ailgladdu; Ail-gladdu; Ail-gladdiad; Claddiad; Claddedigaeth; Marw; Meirw; Ail-leoli; Cludo; Cludaw; Atgyfodi; Atgyfodiad; Datgelu; Dadorchuddio; Dadorchuddiaw; Trosglwyddo; Trosglwyddaw; Codi; Ailagor; Ail-agor
+> palu lan; palu (i) fyny; claddu; datgladdu; datgladdv; dadgladdiad; dadgladdiadau; ailgladdu; ail-gladdu; ail-gladdiad; claddiad; claddedigaeth; marw; meirw; ail-leoli; cludo; cludaw; atgyfodi; atgyfodiad; datgelu; dadorchuddio; dadorchuddiaw; trosglwyddo; trosglwyddaw; codi; ailagor; ail-agor
 
 > corff; cyrff; celain; celanedd; asgwrn; esgyrn; penglog; esgyrndy; sgerbwd; sgerbydau; pen; pennau; crair; creiriau; gweddillion
 
-> Bedd; Beddau; Beddrod; Beddrodau; Creirfa; Arch; Eirch; Archoedd; Amdo; Amwisg; Gorchudd
+> bedd; beddau; beddrod; beddrodau; creirfa; arch; eirch; archoedd; amdo; amwisg; gorchudd
 
 
 ### Modern English meanings : 
