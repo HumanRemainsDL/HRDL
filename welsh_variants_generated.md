@@ -1419,7 +1419,7 @@
 | wedillion | remains |
 | wedillyon | remains |
 | wedyllyon | remains |
-| Welsh Search Term | English Translation |
+| -- | -- |
 | ailacor | reopen |
 | ailagor | reopen |
 | ailcladdu | rebury |
