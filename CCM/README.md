@@ -7,4 +7,4 @@ This geopackage was created in QGIS (v.3.34.12), and per all other material offe
 Any use should please reference the geopackage with the following :
 
 
-<---- TO BE CONFIRMED ---->
+   Butler, J., Daubney, A., and Nugent, R., (2025) The Human Remains Digital Library: Conceptual Church Map   (CCM) Geopackage. Github [HumanRemainsDL]. https://github.com/HumanRemainsDL/HRDL/CCM
