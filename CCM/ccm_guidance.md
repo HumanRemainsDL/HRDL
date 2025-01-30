@@ -30,8 +30,3 @@ Each conceptual space has been assigned a categorisation from the following, wit
 - _Spare_ - hidden by default through invisible styles, this provide an addition space that can be tailored to any other defined space if of importance to a design (e.g. 'Library', 'Rafters', 'Cloakroom', 'Kitchen')
 
 - _Cloisters - Cardinal_ - N/E/S/W distinctions within the Cloisters conceptual space
-
-
-Any use of the CCM Geopackage should please be referenced with the following:
-
-Butler, J., Daubney, A., and Nugent, R., (2025) The Human Remains Digital Library: Conceptual Church Map (CCM) Geopackage. Github [HumanRemainsDL]. [https://github.com/HumanRemainsDL/HRDL/tree/main/CCM]
