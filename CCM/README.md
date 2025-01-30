@@ -4,7 +4,6 @@ It represents - as the name implies - a conceptual model of the key institutiona
 
 This geopackage was created in QGIS (v.3.34.12), and per all other material offered by HRDL is made available for free use under CC BY 4.0.
 
-Any use should please reference the geopackage with the following :
+Any use should please reference the geopackage with the following entry :
 
-
-   Butler, J., Daubney, A., and Nugent, R., (2025) The Human Remains Digital Library: Conceptual Church Map   (CCM) Geopackage. Github [HumanRemainsDL]. https://github.com/HumanRemainsDL/HRDL/CCM
+_Butler, J., Daubney, A., and Nugent, R., (2025) The Human Remains Digital Library: Conceptual Church Map   (CCM) Geopackage. Github [HumanRemainsDL]. https://github.com/HumanRemainsDL/HRDL/CCM_
