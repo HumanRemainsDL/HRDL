@@ -8,4 +8,3 @@ Any use should please reference the geopackage with the following :
 
 
 <---- TO BE CONFIRMED ---->
-'Nugent, R. (et al.) Conceptual Church Map (CCM) Geopackage (2025), The Human Remains Digital Library, ... ... ...
