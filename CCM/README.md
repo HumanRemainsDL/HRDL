@@ -1,3 +1,5 @@
+## The Conceptual Church Map (CCM)
+
 The Conceptual Church Map (CCM) is an key visualisation output that was designed to meet the specific mapping requirements for research undertaken from the Human Remains Digital Library.
 
 It represents - as the name implies - a conceptual model of the key institutional spaces found across typical churches, allowing for a simple representation of data - compiled or comparitive - without the need for layouts at an individual building level.
