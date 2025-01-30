@@ -1,4 +1,4 @@
-**Conceptual Church Map (CCM) Guidance**
+## Conceptual Church Map (CCM) Guidance
 
 The geopackage comprises 4 layers, which will all be activated by default.
 
