@@ -35,4 +35,6 @@ Cathedral Archaeology Subcorpus : <a href="https://doi.org/10.5281/zenodo.148107
 
 Cathedral Textual Subcorpus : <a href="https://doi.org/10.5281/zenodo.14856818"><img src="https://zenodo.org/badge/931438552.svg" alt="DOI"></a>
 
+Royal Subcorpus : <a href="https://doi.org/10.5281/zenodo.14859523"><img src="https://zenodo.org/badge/931534053.svg" alt="DOI"></a>
+
 Welsh Subcorpus : <a href="https://doi.org/10.5281/zenodo.14810841"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14810841.svg" alt="DOI"></a>
