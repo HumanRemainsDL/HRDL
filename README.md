@@ -33,4 +33,6 @@ These separate repositories hold the texts (in both original languages and moder
 
 Cathedral Archaeology Subcorpus : <a href="https://doi.org/10.5281/zenodo.14810791"><img src="https://zenodo.org/badge/927742482.svg" alt="DOI"></a>
 
+Cathedral Textual Subcorpus : <a href="https://doi.org/10.5281/zenodo.14856818"><img src="https://zenodo.org/badge/931438552.svg" alt="DOI"></a>
+
 Welsh Subcorpus : <a href="https://doi.org/10.5281/zenodo.14810841"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14810841.svg" alt="DOI"></a>
