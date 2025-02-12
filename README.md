@@ -29,7 +29,7 @@ This Home folder contains supporting tables and figures for the core published o
 
 
 ## Compiled Subcorpora
-These separate repositories hold the texts (in both original languages and modern english translations as feature in the digital library) collected by individual researchers for each focused subcorpora, provided in raw .txt format.
+These separate repositories hold the texts (in both original languages where appropriate and modern english translations as feature in the digital library) collected by individual researchers for each focused subcorpora, provided in raw .txt format with corresponding record list in xlsx.
 
 Cathedral Archaeology Subcorpus : <a href="https://doi.org/10.5281/zenodo.14810791"><img src="https://zenodo.org/badge/927742482.svg" alt="DOI"></a>
 
