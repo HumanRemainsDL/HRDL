@@ -10,7 +10,7 @@ The layers are structured as follows (from base to top):
 
 - _ccm_spaces_base_ - this layer provides the underpinning spatial layout and default styles.
 
-- _ccm_room_outline_ - this is a mirror layer of the above, to allow for heatmapping or similar visualisation techniques distinct from the core spatial layout.
+- _ccm_room_outline_ - this is a mirror layer of the above, to allow for heatmapping or similar visualisation techniques distinct from the core spatial layout. By default all the values are set to show a shaded grid - and it is advised that this layer be toggled off when a map is first generated.
 
 - _ccm_points_ - this layer provides a fixed corresponding point feature for each conceptual space, manually arranged to provide optimum visibility against spatial labels.
 
