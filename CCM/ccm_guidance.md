@@ -27,6 +27,6 @@ Each conceptual space has been assigned a categorisation from the following, wit
 
 - _Unknown_ - for use when there is a level of ambiguity, uncertainity, or mistrust in sources
 
-- _Spare_ - hidden by default through invisible styles, this provide an addition space that can be tailored to any other defined space if of importance to a design (e.g. 'Library', 'Rafters', 'Cloakroom', 'Kitchen')
+- _Spare_ - hidden by default through invisible styles, this provides an addition space that can be tailored to any other defined space if of importance to a design (e.g. 'Library', 'Rafters', 'Cloakroom', 'Kitchen')
 
 - _Cloisters - Cardinal_ - N/E/S/W distinctions within the Cloisters conceptual space
