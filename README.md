@@ -5,6 +5,8 @@ Project details: https://www.liverpool.ac.uk/archaeology-classics-and-egyptology
 
 Digital Library: https://hrdl.liverpool.ac.uk
 
+Launch Event YouTube playlist: https://www.youtube.com/playlist?list=PLo0hAjyzXYBNfabI9R-fLUlU4DMIErKzs
+
 
 ## Folder Contents
 This Home folder contains supporting tables and figures for the core published output of the research undertaken by the project.
