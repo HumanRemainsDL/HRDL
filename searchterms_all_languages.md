@@ -104,7 +104,7 @@
 > burier/gravedigger; a person having to do with a corpse
 
 [State of Being]
-> starved/like a dead body/ cadaverous; naked/bare/open; open
+> starved/like a dead body/cadaverous; naked/bare/open; open
 
 [Structure / Place / Burial Accoutrement]
 > secret place/house/tomb (esp. when suffixed); hill/mound/barrow; burial place; grave/tomb/burial place; epitaph; consecrated grave; grave; burial place in earth; earthen-grave/sepulchre; memorial place/tomb; a lid; lying down from sickness or death/grave; sick-bed/grave; grave/pit for bodies; resting place for dead/ bier; burial place for the body; tomb/sepulchre; burial-ground/graveyard; bed for a corpse; superstructure or cover for something/a tomb built over something; cave/hollow place in earth/miserable dwelling/tomb; dark chamber (where something/someone is buried/tomb; hollowed out stone or wood/coffin/tomb/sarcophagus; monument/tomb
