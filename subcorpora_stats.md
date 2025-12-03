@@ -9,4 +9,4 @@
 | Royals | 600s-1916 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 332 | 0 | 332 |
 | Saints | 700s-1499 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 1263 | 0 | 1263 |
 | Welsh | 1060-1899 | Welsh | 37 | 0 | 37 |
-| | | **Total** | 2562 | | 3336 |
+| | | **Total** | 2602 | | 3336 |
