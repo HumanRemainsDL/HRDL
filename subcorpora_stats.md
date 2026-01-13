@@ -4,9 +4,9 @@
 | --- | --- | --- | --- | --- | --- |
 | Archaeology | 1900-2024 | Modern English | 264 | 0 | 264 |
 | Cathedrals | 1631-1929 | Early and Modern English | 136 | 0 | 136 |
-| Charnel | 1500-1900 | Early and Modern English | 385 | 734 | 1015 |
+| Charnel | 1500-1900 | Early and Modern English | 385 | 734 | 1119 |
 | Postmedieval | 1631-1921 | Early and Modern English | 174 | 0 | 174 |
 | Royals | 600s-1916 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 332 | 0 | 332 |
 | Saints | 700s-1499 | Old English; Latin; Middle English; Anglo-Norman French; Early and Modern English | 1263 | 0 | 1263 |
 | Welsh | 1060-1899 | Welsh | 37 | 0 | 37 |
-| | | **Total** | 2602 | | 3336 |
+| | | **Total** | 2592 | | 3326 |
